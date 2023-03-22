@@ -13,6 +13,6 @@
 <p>gcc -Wall -Werror -Wextra -pedantic *.c -o monty</p>
 <h2><i>Usage</i></h2>
 <p>./monty byte_file.m</p>
-<h2>Author</h2>
+<h2>Authors</h2>
 <li>Dikachi-official</li>
 <li>Chioma Ameh</li>
