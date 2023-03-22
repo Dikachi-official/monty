@@ -10,8 +10,9 @@
 </p>
 
 <h2>Compilation</h2>
-<p>gcc -Wall -Werror -Wextra -pedantic *.c -o monty</p>
+<li>gcc -Wall -Werror -Wextra -pedantic *.c -o monty</li>
 <h2><i>Usage</i></h2>
 <p>./monty byte_file.m</p>
-<h2>Author</h2>
-<p>Dikachi-official<p>
+<h2>Authors</h2>
+<li>Dikachi-official</li>
+<li>Chioma Ameh</li>
